@@ -50,7 +50,7 @@ Here's a walkthrough of implemented user stories:
 During the hiding the stop button and having it come back when you pressed stop was a bit difficult for me and I am not sure. I was following the directions and then I missed that portion of it and I was confused on how to do that, but I came over it by just re-reading the directions and slowing down. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-I think I would like to learn more about how sounds work whne it comes to HTML web pages. I was looking at the Sound Synthsizer portion and reading over the code and it doesnt quite make sense to me but I think it will with more research. 
+I think I would like to learn more about how sounds work when it comes to HTML web pages. I was looking at the Sound Synthsizer portion and reading over the code and it doesnt quite make sense to me but I think it will with more research. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 I would take the time to add some more buttons and sounds. I really liked this project so if I get into the program hopefully I can do more projects like this. 
